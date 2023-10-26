@@ -1,5 +1,5 @@
 # Database_Ikan_hias
-SQL script di atas adalah skrip untuk membuat tabel-tabel dalam database yang mungkin digunakan dalam aplikasi penjualan. Database ini dirancang untuk mengelola data pelanggan, pemasok, stok produk, penjualan, pembayaran, dan pengiriman dalam suatu sistem penjualan.
+Database ini dirancang untuk mengelola data pelanggan, pemasok, stok produk, penjualan, pembayaran, dan pengiriman dalam suatu sistem penjualan bisnis ikan hias.
 
 
 # Database Schema
