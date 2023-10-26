@@ -2,6 +2,10 @@
 SQL script di atas adalah skrip untuk membuat tabel-tabel dalam database yang mungkin digunakan dalam aplikasi penjualan. Database ini dirancang untuk mengelola data pelanggan, pemasok, stok produk, penjualan, pembayaran, dan pengiriman dalam suatu sistem penjualan.
 
 # Business Flow
+
+Database ini menggunakan alur star schema dengan terdiri dari 5 tabel dimensi dan 1 tabel fakta. dengan alur daa sebagai berikut:
+![Teks Alternatif](ERD_Ikan.jpg)
+
 ## 1.Pelanggan:
 - Database akan menyimpan data pelanggan, seperti nama, alamat, nomor HP, dan email, dalam tabel "Pelanggan".
 - Setiap pelanggan akan memiliki ID unik, sehingga informasi mereka dapat diidentifikasi secara efisien.
