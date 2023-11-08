@@ -3,7 +3,7 @@ Database ini dirancang untuk mengelola data pelanggan, pemasok, stok produk, pen
 
 
 # Database Schema
-Database ini menggunakan alur snowflake schema dengan terdiri dari 5 tabel dimensi dan 1 tabel fakta. dengan alur data sebagai berikut:
+Database ini menggunakan alur star schema dengan terdiri dari 5 tabel dimensi dan 1 tabel fakta. dengan alur data sebagai berikut:
 ![Teks Alternatif](ERD_Ikan.jpg)
 
 # Business Flow
